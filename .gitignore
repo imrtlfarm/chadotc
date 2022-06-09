@@ -1,2 +1,5 @@
 cache/
 out/
+src/artifacts
+src/interfaces/artifacts
+src/test/utils/artifacts
